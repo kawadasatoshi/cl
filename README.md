@@ -1,7 +1,7 @@
 
 
 ```sh
-git clone this page url
+git clone https://github.com/kawadasatoshi/cl.git
 cd ./cl
 docker-compose build
 docker-compose run --rm lisp_sh bash
