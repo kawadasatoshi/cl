@@ -2,7 +2,7 @@
 
 ```sh
 git clone https://github.com/kawadasatoshi/cl.git
-cd ./cl
+cd cl
 docker-compose build
 docker-compose run --rm lisp_sh bash
 ```
